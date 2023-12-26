@@ -15,8 +15,6 @@
     align-items: flex-start;
     flex-direction: column;
     gap: 10px;
-
-    /* background-color: darkmagenta; */
 }
 
 .first .img{
@@ -59,7 +57,6 @@
     align-items: flex-start;
     margin-top: 20px;
 
-    /* background-color: cadetblue; */
 }
 
 .second h1{
@@ -86,7 +83,6 @@
     position: absolute;
     bottom: 0;
 
-    /* background-color:  deepskyblue; */
 }
 
 .third img{
