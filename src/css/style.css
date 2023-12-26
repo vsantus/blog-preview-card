@@ -7,7 +7,7 @@
     box-shadow: 10px 10px 1px black;
     position: relative;
 
-    background-color: #fff;
+    background-color: hsl(0, 0%, 100%);
 }
 
 .first{
@@ -30,7 +30,7 @@
 .first .btn {
     height: 40px;
     width: 90px;
-    background-color: rgb(245, 208, 78);
+    background-color:hsl(47, 88%, 63%);
     align-items: center;
     justify-content: center;
     display: flex;
@@ -48,7 +48,7 @@
 
 .first h2 {
     font-size: 15px;
-    font-weight: 500;
+    font-weight: 600;
     padding-top: 10px;
 
 }
@@ -68,14 +68,14 @@
 }
 
 .second h1:hover{
-    color:  rgb(245, 208, 78) ;
+    color: hsl(47, 88%, 63%) ;
     cursor: pointer;
 }
 
 .second p{
     padding-top: 12px;
-    font-weight: 300;
-    color: grey;
+    font-weight: 500;
+    color: hsl(0, 0%, 50%);
     font-size: 16px;
 }
 
